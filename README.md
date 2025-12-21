@@ -1,4 +1,4 @@
-# Just-Demo
+# Git-Demo
 This is my first repository and its my first experience to use github.
 <br>
 Author-Nabeel Bhutta
